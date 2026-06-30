@@ -55,7 +55,7 @@ export default function Footer() {
             <p
               style={{
                 fontFamily: "var(--font-inter)",
-                fontSize: 13,
+                fontSize: 16,
                 color: "rgba(180,210,185,0.45)",
                 lineHeight: 1.8,
                 maxWidth: 260,

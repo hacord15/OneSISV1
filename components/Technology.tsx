@@ -76,7 +76,7 @@ export default function Technology() {
               className="mb-10"
               style={{
                 fontFamily: "var(--font-inter)",
-                fontSize: 14,
+                fontSize: 16,
                 color: "rgba(180,210,185,0.65)",
                 lineHeight: 1.85,
                 maxWidth: 380,

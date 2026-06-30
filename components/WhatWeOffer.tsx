@@ -77,7 +77,7 @@ export default function WhatWeOffer() {
                 className="mb-6 block"
                 style={{
                   fontFamily: "var(--font-inter)",
-                  fontSize: 11,
+                  fontSize: 16,
                   letterSpacing: "0.14em",
                   color: "#c8a44a",
                 }}
@@ -104,7 +104,7 @@ export default function WhatWeOffer() {
                 className="mb-8 flex-1"
                 style={{
                   fontFamily: "var(--font-inter)",
-                  fontSize: 13,
+                  fontSize: 16,
                   color: "rgba(160,190,165,0.65)",
                   lineHeight: 1.8,
                 }}

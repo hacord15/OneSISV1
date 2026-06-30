@@ -49,7 +49,7 @@ export default function CTA() {
           className="mb-12"
           style={{
             fontFamily: "var(--font-inter)",
-            fontSize: 15,
+            fontSize: 16,
             color: "#8a9a8a",
             lineHeight: 1.8,
             maxWidth: 480,

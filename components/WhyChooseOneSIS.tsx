@@ -92,7 +92,7 @@ export default function WhyChooseOneSIS() {
             <p
               style={{
                 fontFamily: "var(--font-inter)",
-                fontSize: 14,
+                fontSize: 16,
                 color: "#6a7a6a",
                 lineHeight: 1.8,
                 maxWidth: 460,
@@ -156,7 +156,7 @@ export default function WhyChooseOneSIS() {
               <p
                 style={{
                   fontFamily: "var(--font-inter)",
-                  fontSize: 13,
+                  fontSize: 15,
                   color: "#6a7a6a",
                   lineHeight: 1.8,
                 }}

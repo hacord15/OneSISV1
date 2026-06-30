@@ -78,7 +78,7 @@ export default function OneSISAdvantage() {
           <p
             style={{
               fontFamily: "var(--font-inter)",
-              fontSize: 14,
+              fontSize: 16,
               color: "#6a7a6a",
               lineHeight: 1.8,
             }}
@@ -140,7 +140,7 @@ export default function OneSISAdvantage() {
                   <p
                     style={{
                       fontFamily: "var(--font-inter)",
-                      fontSize: 13,
+                      fontSize: 16,
                       color: "#6a7a6a",
                       lineHeight: 1.8,
                     }}

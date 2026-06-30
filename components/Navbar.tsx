@@ -131,7 +131,7 @@ export default function Navbar() {
                             padding: "14px 28px",   // slightly more horizontal padding
                         }}
                     >
-                        CONTACT US
+                        DOWNLOAD PROFILE
                     </Link>
                 </div>
 
